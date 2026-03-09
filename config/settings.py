@@ -1,0 +1,8 @@
+OLLAMA_MODEL= "llama3.1:8b"
+OLLAMA_BASE_URL="http://localhost:11434"
+
+WAKE_WORD ="jarvis"
+
+VOICE_RATE =150
+VOICE_VOLUMNE=1.0
+
